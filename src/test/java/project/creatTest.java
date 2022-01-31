@@ -1,9 +1,9 @@
 package project;
 
-public class test {
+public class creatTest {
 
 	
-	public void ss() {
+	public void ssTest() {
 		System.out.println("user first commit");
 	}
 	
